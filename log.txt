@@ -1,0 +1,1 @@
+{'src_ip': '172.20.10.4', 'dst_ip': '8.8.8.8', 'protocol': 'UDP', 'src_port': 53, 'dst_port': 53, 'domain': 'youtube.com'}
