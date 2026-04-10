@@ -32,6 +32,9 @@ The system reads packet data from a PCAP file, extracts domain information using
 2. Run the GUI: 
 ---
 
+## 📸 Output Screenshot
+![GUI Output](screenshot.png)
+
 ## 📸 Output (Example)
 
 GUI displays:
