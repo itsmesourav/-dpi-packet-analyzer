@@ -11,6 +11,7 @@ A GUI-based Deep Packet Inspection (DPI) system for analyzing network packets an
 - GUI interface using Tkinter
 - Dynamic user input for blocking domains
 - Timestamp-based packet logging
+- Simulation of firewall-like domain filtering behavior
 
 ---
 
